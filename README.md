@@ -15,21 +15,18 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 - [Project description](#project-description)
 
 - [Technologies used](#technologies-used)
-
+<!-- 
 - [What I learned](#what-I-learned)
 
 - [Access the Project](#access-the-project)
-
+ -->
 
 ## Project description
 
 <p align="justify">
-
 It is the character selection stage of a fictional video game. This project was created during the [Mapa dev week](https://mapadevweek.com/) a free course event of the Frontend Course of [DevQuest](https://devemdobro.com/lista/).
-
-
-
 </p>
+
 
 ## Technologies used
 
@@ -39,7 +36,7 @@ It is the character selection stage of a fictional video game. This project was 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-## What I learned
+<!-- ## What I learned
 
 
 
@@ -57,7 +54,7 @@ Tablet
 
 Desktop 
 
-<img src="./src/alura-plus-desktop-screen.gif" alt="Alura plus desktop screen gif">
+<img src="./src/alura-plus-desktop-screen.gif" alt="Alura plus desktop screen gif"> -->
 
 
 <div id="portuguese">
@@ -76,13 +73,10 @@ Desktop
 - [Descrição do projeto](#descrição-do-projeto)
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
-
+<!-- 
 - [O que aprendi](#o-que-aprendi)
 
-- [Acesse o projeto](#acesse-o-projeto)
-
-
-// - [Abrir e rodar o projeto](#abrir-e-rodar-o-projeto) //
+- [Acesse o projeto](#acesse-o-projeto) -->
 
 
 ## Descrição do projeto 
@@ -99,7 +93,7 @@ Essa é a etapa de seleção de personagens de um videogame fictício. Esse proj
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-## O que aprendi
+<!-- ## O que aprendi
 
 ## Acesse o projeto
 
@@ -115,7 +109,7 @@ Tablet
 
 Desktop 
 
-<img src="./src/alura-plus-desktop-screen.gif" alt="Alura plus desktop screen gif">
+<img src="./src/alura-plus-desktop-screen.gif" alt="Alura plus desktop screen gif"> -->
 
 
 <hr>
