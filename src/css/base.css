@@ -12,3 +12,6 @@
   --red:#D60223;
   --black:#000000;
 }
+body {
+  background: var(--black);
+}
