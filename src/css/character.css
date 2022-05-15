@@ -1,0 +1,11 @@
+.character {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.character .character__main {
+  text-align: center;
+  width: 30%;
+  height: 70vh;
+  position: relative;
+}
