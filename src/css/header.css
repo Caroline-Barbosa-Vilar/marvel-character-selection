@@ -4,7 +4,7 @@
   justify-content: center;
 }
 .header__title {
-  font-family: 'command', Courier, monospace;
+  font-family: var(--comand);
   text-transform: uppercase;
   color: var(--white);
   font-size: 2rem;
