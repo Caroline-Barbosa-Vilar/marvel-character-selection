@@ -16,6 +16,7 @@
 }
 body {
   background: var(--black);
+  font-family: var(--comand);
 }
 body::before {
   content: '';
