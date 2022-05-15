@@ -6,6 +6,12 @@
 .character .character__main {
   text-align: center;
   width: 30%;
-  height: 70vh;
+  height: 95vh;
   position: relative;
+}
+.character .character__main img {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
 }
