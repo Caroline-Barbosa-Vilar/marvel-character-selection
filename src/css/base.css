@@ -24,3 +24,8 @@ body::before {
   height: 100%;
   opacity: 0.2;
 }
+main {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
