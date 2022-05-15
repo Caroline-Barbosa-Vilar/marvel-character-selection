@@ -23,5 +23,4 @@
 }
 .character .character__list .character__item.selected {
   border: 2px solid var(--blue);
-  animation: ;
 }
