@@ -1,0 +1,17 @@
+.character .character__list {
+  display: flex;
+  flex-wrap: wrap;
+  max-width: 600px;
+  justify-content: center;
+  gap: 12px;
+}
+.character .character__list .character__item {
+  border: 2px solid var(--white);
+  background-color: var(--white);
+  width: 30%;
+  height: 160px;
+  cursor: pointer;
+  z-index: 2;
+  border-radius: 5px;
+  position: relative;
+}
