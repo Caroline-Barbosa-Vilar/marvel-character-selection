@@ -3,8 +3,10 @@
   display: flex;
   justify-content: center;
 }
-.header .header__title {
+.header__title {
   font-family: 'command', Courier, monospace;
-  color: var(--off-white);
   text-transform: uppercase;
+  color: var(--white);
+  font-size: 2rem;
+  -webkit-text-stroke: 2px var(--off-white);
 }
