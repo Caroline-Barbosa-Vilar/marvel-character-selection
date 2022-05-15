@@ -1,0 +1,10 @@
+.header {
+  z-index: 1;
+  display: flex;
+  justify-content: center;
+}
+.header .header__title {
+  font-family: 'command', Courier, monospace;
+  color: var(--off-white);
+  text-transform: uppercase;
+}
