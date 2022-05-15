@@ -11,6 +11,8 @@
   --bright-blue:#0271f7;
   --red:#D60223;
   --black:#000000;
+
+  --comand: 'command', Courier, monospace;;
 }
 body {
   background: var(--black);
