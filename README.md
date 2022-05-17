@@ -47,15 +47,15 @@ You can [access the project here](https://bo83dev.github.io/alura-plus)
 
 Mobile
 
-<img src="./src/alura-plus-mobile-screen.gif" alt="Alura plus mobile screen gif">
+<img src="./src/" alt="Alura plus mobile screen gif">
 
 Tablet 
 
-<img src="./src/alura-plus-tablet-screen.gif" alt="Alura plus desktop screen gif">
+<img src="./src/" alt="Alura plus desktop screen gif">
 
 Desktop 
 
-<img src="./src/alura-plus-desktop-screen.gif" alt="Alura plus desktop screen gif"> -->
+<img src="./src/" alt="Alura plus desktop screen gif"> -->
 
 
 <div id="portuguese">
@@ -103,15 +103,15 @@ Você pode [acessar o projeto aqui](https://bo83dev.github.io/testimonials-proje
 
 Mobile
 
-<img src="./src/alura-plus-mobile-screen.gif" alt="Alura plus mobile screen gif">
+<img src="./src/" alt="Alura plus mobile screen gif">
 
 Tablet 
 
-<img src="./src/alura-plus-tablet-screen.gif" alt="Alura plus desktop screen gif">
+<img src="./src/" alt="Alura plus desktop screen gif">
 
 Desktop 
 
-<img src="./src/alura-plus-desktop-screen.gif" alt="Alura plus desktop screen gif"> -->
+<img src="./src/" alt="Alura plus desktop screen gif"> -->
 
 
 <hr>
