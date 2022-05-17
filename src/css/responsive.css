@@ -6,15 +6,30 @@
     max-width: 330px;
   }
   .character .character__list .character__item {
-    width: 90px;
-    height: 90px;
+    width: 100px;
+    height: 100px;
   }
 }
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   body::before {
     background: url(../img/bg-mobile.jpg) no-repeat center;
     background-size: cover;
     background-position: center;
     opacity: 1;
+  }
+  main {
+    padding: 0 5px;
+    justify-content: start;
+  }
+  .header__title {
+    font-size: 1.5rem;
+  }
+  .character .character__main {
+    display: none;
+  }
+}
+@media (max-width: 360px) {
+  .header__title {
+    font-size: 1rem;
   }
 }
