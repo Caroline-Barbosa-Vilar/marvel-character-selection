@@ -18,16 +18,18 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 <!-- 
 - [What I learned](#what-I-learned)
 
-- [Access the Project](#access-the-project)
- -->
+- [Access the Project](#access-the-project) -->
+
 
 ## Project description
 
 <p align="justify">
+
 It is the character selection stage of a fictional video game. 
 This project was created during the [Mapa dev week](https://mapadevweek.com/) a free course event of the Frontend Course of [DevQuest](https://devemdobro.com/lista/).
-</p>
 
+
+</p>
 
 ## Technologies used
 
@@ -39,11 +41,12 @@ This project was created during the [Mapa dev week](https://mapadevweek.com/) a 
 
 <!-- ## What I learned
 
+- How to create CSS animations using keyframes;
 
 
 ## Access the Project
 
-You can [access the project here](https://bo83dev.github.io/alura-plus) 
+You can [access the project here](https://bo83dev.github.io/marvel-character-selection/) 
 
 Mobile
 
@@ -97,9 +100,11 @@ Esse projeto foi desenvolvido durante a [Mapa dev week](https://mapadevweek.com/
 
 <!-- ## O que aprendi
 
+- Como criar animações com CSS utilizando o keyframes;
+
 ## Acesse o projeto
 
-Você pode [acessar o projeto aqui](https://bo83dev.github.io/testimonials-project/) 
+Você pode [acessar o projeto aqui](https://bo83dev.github.io/marvel-character-selection/) 
 
 Mobile
 
@@ -111,8 +116,8 @@ Tablet
 
 Desktop 
 
-<img src="./src/" alt="Alura plus desktop screen gif"> -->
-
+<img src="./src/" alt="Alura plus desktop screen gif">
+ -->
 
 <hr>
 
