@@ -1,39 +1,39 @@
 @keyframes c-glowing-blue {
     0% {
-      box-shadow: 0 0 5px var(--cor-azul-fraca), 0 0 5px var(--cor-azul-fraca), 0 0 15px var(--cor-azul-fraca), 0 0 20px var(--cor-azul-principal), 0 0 10px var(--cor-azul-principal), 0 0 10px var(--cor-azul-principal), 0 0 10px var(--cor-azul-principal), 0 0 10px var(--cor-azul-principal)
+      box-shadow: 0 0 5px var(--blue), 0 0 5px var(--blue), 0 0 15px var(--blue), 0 0 20px var(--bright-blue), 0 0 10px var(--bright-blue), 0 0 10px var(--bright-blue), 0 0 10px var(--bright-blue), 0 0 10px var(--bright-blue)
     }
   
     to {
-      box-shadow: 0 0 2.5px var(--cor-azul-fraca), 0 0 2.5px var(--cor-azul-fraca), 0 0 7.5px var(--cor-azul-fraca), 0 0 10px var(--cor-azul-principal), 0 0 5px var(--cor-azul-principal), 0 0 5px var(--cor-azul-principal), 0 0 5px var(--cor-azul-principal), 0 0 2px var(--cor-azul-principal)
+      box-shadow: 0 0 2.5px var(--blue), 0 0 2.5px var(--blue), 0 0 7.5px var(--blue), 0 0 10px var(--bright-blue), 0 0 5px var(--bright-blue), 0 0 5px var(--bright-blue), 0 0 5px var(--bright-blue), 0 0 2px var(--bright-blue)
     }
   }
   
   @keyframes c-glowing-red {
     0% {
-      box-shadow: 0 0 5px var(--cor-marrom-fraco), 0 0 5px var(--cor-marrom-fraco), 0 0 15px var(--cor-marrom-fraco), 0 0 20px var(--cor-vermelha-principal), 0 0 10px var(--cor-vermelha-principal), 0 0 10px var(--cor-vermelha-principal), 0 0 10px var(--cor-vermelha-principal), 0 0 10px var(--cor-vermelha-principal)
+      box-shadow: 0 0 5px var(--sand), 0 0 5px var(--sand), 0 0 15px var(--sand), 0 0 20px var(--red), 0 0 10px var(--red), 0 0 10px var(--red), 0 0 10px var(--red), 0 0 10px var(--red)
     }
   
     to {
-      box-shadow: 0 0 2.5px var(--cor-marrom-fraco), 0 0 2.5px var(--cor-marrom-fraco), 0 0 7.5px var(--cor-marrom-fraco), 0 0 10px var(--cor-vermelha-principal), 0 0 5px var(--cor-vermelha-principal), 0 0 5px var(--cor-vermelha-principal), 0 0 5px var(--cor-vermelha-principal), 0 0 2px var(--cor-vermelha-principal)
+      box-shadow: 0 0 2.5px var(--sand), 0 0 2.5px var(--sand), 0 0 7.5px var(--sand), 0 0 10px var(--red), 0 0 5px var(--red), 0 0 5px var(--red), 0 0 5px var(--red), 0 0 2px var(--red)
     }
   }
   
   @keyframes text-glowing-blue {
     0% {
-      text-shadow: 0 0 1px var(--cor-padrao), 0 0 1px var(--cor-padrao), 0 0 1px var(--cor-padrao), 0 0 1px var(--cor-azul-media), 0 0 5px var(--cor-azul-media), 0 0 2px var(--cor-azul-media), 0 0 10px var(--cor-azul-media), 0 0 10px var(--cor-azul-media)
+      text-shadow: 0 0 1px var(--white), 0 0 1px var(--white), 0 0 1px var(--white), 0 0 1px var(--light-blue), 0 0 5px var(--light-blue), 0 0 2px var(--light-blue), 0 0 10px var(--light-blue), 0 0 10px var(--light-blue)
     }
   
     to {
-      text-shadow: 0 0 .5px var(--cor-padrao), 0 0 .5px var(--cor-padrao), 0 0 .5px var(--cor-padrao), 0 0 .5px var(--cor-azul-media), 0 0 5px var(--cor-azul-media), 0 0 .5px var(--cor-azul-media), 0 0 5px var(--cor-azul-media), 0 0 2px var(--cor-azul-media)
+      text-shadow: 0 0 .5px var(--white), 0 0 .5px var(--white), 0 0 .5px var(--white), 0 0 .5px var(--light-blue), 0 0 5px var(--light-blue), 0 0 .5px var(--light-blue), 0 0 5px var(--light-blue), 0 0 2px var(--light-blue)
     }
   }
   
   @keyframes text-glowing-red {
     0% {
-      text-shadow: 0 0 1px var(--cor-marrom-fraco), 0 0 1px var(--cor-marrom-fraco), 0 0 1px var(--cor-marrom-fraco), 0 0 1px var(--cor-vermelha-fraca), 0 0 5px var(--cor-vermelha-fraca), 0 0 2px var(--cor-vermelha-fraca), 0 0 10px var(--cor-vermelha-fraca), 0 0 10px var(--cor-vermelha-fraca)
+      text-shadow: 0 0 1px var(--sand), 0 0 1px var(--sand), 0 0 1px var(--sand), 0 0 1px var(--light-pink), 0 0 5px var(--light-pink), 0 0 2px var(--light-pink), 0 0 10px var(--light-pink), 0 0 10px var(--light-pink)
     }
   
     to {
-      text-shadow: 0 0 .5px var(--cor-marrom-fraco), 0 0 .5px var(--cor-marrom-fraco), 0 0 .5px var(--cor-marrom-fraco), 0 0 .5px var(--cor-vermelha-fraca), 0 0 5px var(--cor-vermelha-fraca), 0 0 .5px var(--cor-vermelha-fraca), 0 0 5px var(--cor-vermelha-fraca), 0 0 2px var(--cor-vermelha-fraca)
+      text-shadow: 0 0 .5px var(--sand), 0 0 .5px var(--sand), 0 0 .5px var(--sand), 0 0 .5px var(--light-pink), 0 0 5px var(--light-pink), 0 0 .5px var(--light-pink), 0 0 5px var(--light-pink), 0 0 2px var(--light-pink)
     }
   }
