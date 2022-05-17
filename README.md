@@ -18,15 +18,18 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 <!-- 
 - [What I learned](#what-I-learned)
 
-- [Access the Project](#access-the-project)
- -->
+- [Access the Project](#access-the-project) -->
+
 
 ## Project description
 
 <p align="justify">
-It is the character selection stage of a fictional video game. This project was created during the [Mapa dev week](https://mapadevweek.com/) a free course event of the Frontend Course of [DevQuest](https://devemdobro.com/lista/).
-</p>
 
+It is the character selection stage of a fictional video game. 
+This project was created during the [Mapa dev week](https://mapadevweek.com/) a free course event of the Frontend Course of [DevQuest](https://devemdobro.com/lista/).
+
+
+</p>
 
 ## Technologies used
 
@@ -38,23 +41,24 @@ It is the character selection stage of a fictional video game. This project was 
 
 <!-- ## What I learned
 
+- How to create CSS animations using keyframes;
 
 
 ## Access the Project
 
-You can [access the project here](https://bo83dev.github.io/alura-plus) 
+You can [access the project here](https://bo83dev.github.io/marvel-character-selection/) 
 
 Mobile
 
-<img src="./src/alura-plus-mobile-screen.gif" alt="Alura plus mobile screen gif">
+<img src="./src/" alt="Alura plus mobile screen gif">
 
 Tablet 
 
-<img src="./src/alura-plus-tablet-screen.gif" alt="Alura plus desktop screen gif">
+<img src="./src/" alt="Alura plus desktop screen gif">
 
 Desktop 
 
-<img src="./src/alura-plus-desktop-screen.gif" alt="Alura plus desktop screen gif"> -->
+<img src="./src/" alt="Alura plus desktop screen gif"> -->
 
 
 <div id="portuguese">
@@ -82,7 +86,8 @@ Desktop
 ## Descrição do projeto 
 
 <p align="justify">
-Essa é a etapa de seleção de personagens de um videogame fictício. Esse projeto foi desenvolvido durante a [Mapa dev week](https://mapadevweek.com/) um evento gratuito do curso de Frontend [DevQuest](https://devemdobro.com/lista/).
+Essa é a etapa de seleção de personagens de um videogame fictício. 
+Esse projeto foi desenvolvido durante a [Mapa dev week](https://mapadevweek.com/) um evento gratuito do curso de Frontend [DevQuest](https://devemdobro.com/lista/).
 </p>
 
 
@@ -95,22 +100,24 @@ Essa é a etapa de seleção de personagens de um videogame fictício. Esse proj
 
 <!-- ## O que aprendi
 
+- Como criar animações com CSS utilizando o keyframes;
+
 ## Acesse o projeto
 
-Você pode [acessar o projeto aqui](https://bo83dev.github.io/testimonials-project/) 
+Você pode [acessar o projeto aqui](https://bo83dev.github.io/marvel-character-selection/) 
 
 Mobile
 
-<img src="./src/alura-plus-mobile-screen.gif" alt="Alura plus mobile screen gif">
+<img src="./src/" alt="Alura plus mobile screen gif">
 
 Tablet 
 
-<img src="./src/alura-plus-tablet-screen.gif" alt="Alura plus desktop screen gif">
+<img src="./src/" alt="Alura plus desktop screen gif">
 
 Desktop 
 
-<img src="./src/alura-plus-desktop-screen.gif" alt="Alura plus desktop screen gif"> -->
-
+<img src="./src/" alt="Alura plus desktop screen gif">
+ -->
 
 <hr>
 
