@@ -18,7 +18,7 @@
 .character .character__main .character__name::before {
   content: '';
   width: 100%;
-  height: 15px;
+  height: 25px;
   position: absolute;
   bottom: -15px;
   left: 0;
@@ -26,7 +26,7 @@
 .character .character__main .character__name h2 {
   color: var(--white);
   position: absolute;
-  bottom: -15px;
+  bottom: 0;
   width: 100%;
   font-size: 1.6rem;
 }
