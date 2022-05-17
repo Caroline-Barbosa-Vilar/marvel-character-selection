@@ -23,4 +23,12 @@
 }
 .character .character__list .character__item.selected {
   border: 2px solid var(--blue);
+  animation: c-glowing-blue .3s ease-in-out infinite;
+  animation-direction: alternate;
+}
+.character .character__list .character__item:hover{
+  animation: c-glowing-blue .3s ease-in-out infinite;
+  animation-direction: alternate;
+  transform: scale(1.07);
+  z-index: 2;
 }
