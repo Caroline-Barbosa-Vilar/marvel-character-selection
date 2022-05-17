@@ -26,8 +26,19 @@
   animation: c-glowing-blue .3s ease-in-out infinite;
   animation-direction: alternate;
 }
+.character .character__list .character__item.character__item-2--selected {
+  border: 2px solid var(--blue);
+  animation: c-glowing-red .3s ease-in-out infinite;
+  animation-direction: alternate;
+}
 .character .character__list .character__item:hover{
   animation: c-glowing-blue .3s ease-in-out infinite;
+  animation-direction: alternate;
+  transform: scale(1.07);
+  z-index: 2;
+}
+.character .character__list .character__item.character__item-2--selected:hover {
+  animation: c-glowing-red .3s ease-in-out infinite;
   animation-direction: alternate;
   transform: scale(1.07);
   z-index: 2;
