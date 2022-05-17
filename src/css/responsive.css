@@ -22,7 +22,8 @@
     justify-content: start;
   }
   .header__title {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+    margin: 50px auto 100px;
   }
   .character .character__main {
     display: none;
