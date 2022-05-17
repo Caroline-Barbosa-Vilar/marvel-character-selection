@@ -27,7 +27,7 @@
   animation-direction: alternate;
 }
 .character .character__list .character__item.character__item-2--selected {
-  border: 2px solid var(--blue);
+  border: 2px solid var(--light-pink);
   animation: c-glowing-red .3s ease-in-out infinite;
   animation-direction: alternate;
 }
@@ -42,4 +42,25 @@
   animation-direction: alternate;
   transform: scale(1.07);
   z-index: 2;
+}
+.character .character__list .character__item .tag {
+  display: none;
+  position: absolute;
+  top: 5px;
+  left: 5px;
+  color: var(--light-blue);
+  transition: opacity .3s ease-in-out;
+  animation: text-glowing-blue .3s ease-in-out infinite;
+  animation-direction: alternate;
+}
+.character .character__list .character__item.selected .tag {
+  display: block;
+  animation: text-glowing-blue .3s ease-in-out infinite;
+  animation-direction: alternate;
+}
+.character .character__list .character__item.character__item-2--selected .tag {
+  display: block;
+  color: var(--light-pink);
+  animation: text-glowing-red .3s ease-in-out infinite;
+  animation-direction: alternate;
 }
