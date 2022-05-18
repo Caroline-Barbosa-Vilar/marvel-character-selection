@@ -45,7 +45,7 @@ This project was created during the [Mapa dev week](https://mapadevweek.com/) a 
 
 - How to create CSS animations using keyframes;
 - How to change the characters images using the repository folder path (on JS);
-- 
+
 
 ## Access the Project
 
@@ -58,7 +58,7 @@ Desktop
 
 Mobile
 
-<img src="./src/" alt="the character selection mobile screen gif">
+<img src="./src/marvel-mobile-screen.gif" alt="the character selection mobile screen gif">
 
 
 <div id="portuguese">
