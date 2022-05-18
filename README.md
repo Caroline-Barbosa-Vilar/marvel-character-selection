@@ -3,7 +3,9 @@
 <h1 align='center'> Marvel Character Game Selection </h1>
 
 <div align='center'>
-	<img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
+	<a href="https://github.com/Bo83dev/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Bo83dev/digital-agc"></a>
+	<a href="https://github.com/Bo83dev/digital-agc/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Bo83dev/digital-agc"></a>
+	<a href="https://github.com/Bo83dev/digital-agc/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Bo83dev/digital-agc"></a>
 </div>
 
 
@@ -15,10 +17,10 @@ _Para a versão em Português, clique [aqui](#portuguese)._
 - [Project description](#project-description)
 
 - [Technologies used](#technologies-used)
-<!-- 
+
 - [What I learned](#what-I-learned)
 
-- [Access the Project](#access-the-project) -->
+- [Access the Project](#access-the-project)
 
 
 ## Project description
@@ -39,26 +41,24 @@ This project was created during the [Mapa dev week](https://mapadevweek.com/) a 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-<!-- ## What I learned
+## What I learned
 
 - How to create CSS animations using keyframes;
-
+- How to change the characters images using the repository folder path (on JS);
+- 
 
 ## Access the Project
 
 You can [access the project here](https://bo83dev.github.io/marvel-character-selection/) 
 
-Mobile
-
-<img src="./src/" alt="Alura plus mobile screen gif">
-
-Tablet 
-
-<img src="./src/" alt="Alura plus desktop screen gif">
 
 Desktop 
 
-<img src="./src/" alt="Alura plus desktop screen gif"> -->
+<img src="./src/marvel-desktop-screen.gif" alt="the character selection desktop screen gif">
+
+Mobile
+
+<img src="./src/" alt="the character selection mobile screen gif">
 
 
 <div id="portuguese">
@@ -68,7 +68,9 @@ Desktop
 
 
 <div align='center'>
-	<img src="http://img.shields.io/static/v1?label=STATUS&message=DEVELOPING&color=yellow&style=for-the-badge"/>
+	<a href="https://github.com/Bo83dev/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Bo83dev/digital-agc"></a>
+	<a href="https://github.com/Bo83dev/digital-agc/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Bo83dev/digital-agc"></a>
+	<a href="https://github.com/Bo83dev/digital-agc/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Bo83dev/digital-agc"></a>
 </div>
 
 
@@ -77,10 +79,10 @@ Desktop
 - [Descrição do projeto](#descrição-do-projeto)
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
-<!-- 
+
 - [O que aprendi](#o-que-aprendi)
 
-- [Acesse o projeto](#acesse-o-projeto) -->
+- [Acesse o projeto](#acesse-o-projeto)
 
 
 ## Descrição do projeto 
@@ -96,28 +98,27 @@ Esse projeto foi desenvolvido durante a [Mapa dev week](https://mapadevweek.com/
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">		
 </div>
 
-<!-- ## O que aprendi
+## O que aprendi
 
 - Como criar animações com CSS utilizando o keyframes;
+- Como trocar as imagens dos personagens usando o caminho da imagem na pasta do repositório;	
+	
 
 ## Acesse o projeto
 
 Você pode [acessar o projeto aqui](https://bo83dev.github.io/marvel-character-selection/) 
 
-Mobile
-
-<img src="./src/" alt="Alura plus mobile screen gif">
-
-Tablet 
-
-<img src="./src/" alt="Alura plus desktop screen gif">
-
 Desktop 
 
-<img src="./src/" alt="Alura plus desktop screen gif">
- -->
+<img src="./src/marvel-desktop-screen.gif" alt="the character selection desktop screen gif">
+
+Mobile
+
+<img src="./src/marvel-mobile-screen.gif" alt="the character selection mobile screen gif">
+
 
 <hr>
 
