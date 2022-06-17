@@ -105,7 +105,9 @@ Mobile
 ## Descrição do projeto 
 
 <p align="justify">
-
+	
+   Esse projeto é a etapa de seleção de personagens de um jogo de video-game fictício. O projeto foi desenvolvido durante o evento gratuito [Mapa dev week](https://mapadevweek.com/) do curso de Frontend [Dev Quest](https://devemdobro.com/lista/).
+	
 </p>
 
 <br>
@@ -124,7 +126,8 @@ Mobile
 - Como criar animações com CSS utilizando o keyframes;
 - Como trocar as imagens dos personagens usando o caminho da imagem na pasta do repositório;	
 	
-
+<br>
+	
 ## Acesse o projeto
 
 Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/marvel-character-selection/) 
