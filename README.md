@@ -1,10 +1,8 @@
 <p align='center'> <img src="./src/marvel-logo.png" alt="image of the character selection page"> </p>
 
-<br>
 
 <h1 align='center'>Character Game Selection </h1>
 
-<br>
 
 <div align='center'>
 	<a href="https://github.com/Bo83dev/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Bo83dev/digital-agc"></a>
@@ -41,7 +39,6 @@ This project was created during the [Mapa dev week](https://mapadevweek.com/) a 
 
 ## Technologies used
 
-<br>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -59,7 +56,6 @@ This project was created during the [Mapa dev week](https://mapadevweek.com/) a 
 
 ## Access the Project
 
-<br>
 
 You can [access the project here](https://bo83dev.github.io/marvel-character-selection/) 
 
@@ -81,11 +77,9 @@ Mobile
 
 <p align='center'> <img src="./src/marvel-logo.png" alt="image of the character selection page"> </p>
 	
-<br>
 	
 <h1 align='center'> Character Game Selection </h1>
 
-<br>
 
 <div align='center'>
 	<a href="https://github.com/Bo83dev/digital-agc/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Bo83dev/digital-agc"></a>
@@ -110,16 +104,13 @@ Mobile
 	
 ## Descrição do projeto 
 
-<br>	
 <p align="justify">
-Essa é a etapa de seleção de personagens de um videogame fictício. 
-Esse projeto foi desenvolvido durante a [Mapa dev week](https://mapadevweek.com/) um evento gratuito do curso de Frontend [DevQuest](https://devemdobro.com/lista/).
+Essa é a etapa de seleção de personagens de um videogame fictício. Esse projeto foi desenvolvido durante a [Mapa dev week](https://mapadevweek.com/) um evento gratuito do curso de Frontend [DevQuest](https://devemdobro.com/lista/).
 </p>
 
-
+<br>
 ## Tecnologias utilizadas
 
-<br>	
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -127,6 +118,7 @@ Esse projeto foi desenvolvido durante a [Mapa dev week](https://mapadevweek.com/
 </div>
 
 <br>	
+	
 ## O que aprendi
 
 - Como criar animações com CSS utilizando o keyframes;
