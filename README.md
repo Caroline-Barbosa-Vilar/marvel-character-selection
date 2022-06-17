@@ -57,7 +57,7 @@ This project was created during the [Mapa dev week](https://mapadevweek.com/) a 
 ## Access the Project
 
 
-You can [access the project here](https://bo83dev.github.io/marvel-character-selection/) 
+You can [access the project here](https://caroline-barbosa-vilar.github.io/marvel-character-selection/) 
 
 <br>
 
@@ -105,7 +105,7 @@ Mobile
 ## Descrição do projeto 
 
 <p align="justify">
-Essa é a etapa de seleção de personagens de um videogame fictício. Esse projeto foi desenvolvido durante a [Mapa dev week](https://mapadevweek.com/) um evento gratuito do curso de Frontend [DevQuest](https://devemdobro.com/lista/).
+Essa é a etapa de seleção de personagens de um videogame fictício. Esse projeto foi criado durante a [Mapa dev week](https://mapadevweek.com/) um evento gratuito do curso de Frontend [DevQuest](https://devemdobro.com/lista/).
 </p>
 
 <br>
@@ -127,7 +127,7 @@ Essa é a etapa de seleção de personagens de um videogame fictício. Esse proj
 
 ## Acesse o projeto
 
-Você pode [acessar o projeto aqui](https://bo83dev.github.io/marvel-character-selection/) 
+Você pode [acessar o projeto aqui](https://caroline-barbosa-vilar.github.io/marvel-character-selection/) 
 
 Desktop 
 
