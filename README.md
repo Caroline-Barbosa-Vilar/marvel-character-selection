@@ -111,6 +111,7 @@ Mobile
 </p>
 
 <br>
+
 ## Tecnologias utilizadas
 
 <div>
