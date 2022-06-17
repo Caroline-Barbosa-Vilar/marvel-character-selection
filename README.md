@@ -105,7 +105,7 @@ Mobile
 ## Descrição do projeto 
 
 <p align="justify">
-Essa é a etapa de seleção de personagens de um videogame fictício. Esse projeto foi criado durante a [Mapa dev week](https://mapadevweek.com/) um evento gratuito do curso de Frontend [DevQuest](https://devemdobro.com/lista/).
+
 </p>
 
 <br>
